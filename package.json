@@ -1,0 +1,21 @@
+{
+  "name": "silver-wolf-theme",
+  "displayName": "Silver Wolf Theme",
+  "description": "Silver Wolf Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Silver Wolf Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Silver-Wolf-color-theme.json"
+      }
+    ]
+  }
+}
